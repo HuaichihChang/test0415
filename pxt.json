@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "sparkfun-samd21-dev-breakout": "*",
-        "huskylens": "github:lbaitemple/pxt_huskylens#75f7377038f2387fb6950e361d3edc34f9baea1a"
+        "huskylens": "github:lbaitemple/pxt_huskylens#75f7377038f2387fb6950e361d3edc34f9baea1a",
+        "pxt-samd21-zumo": "github:huaichihchang/pxt-samd21-zumo#c1c14d8791a2642c975286c474414d64e2b9cf87"
     },
     "files": [
         "main.blocks",
